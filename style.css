@@ -5,3 +5,4 @@ nav a { color: white; text-decoration: none; }
 form { max-width: 400px; margin: 20px 0; }
 input, button { display: block; margin: 10px 0; padding: 8px; }/* More css */ 
 /* More CSS */ 
+.image-grid { display: grid; }
