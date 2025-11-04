@@ -1,2 +1,4 @@
 body { margin: 0; padding: 20px; }
 h1 { color: #333; }
+nav { background: #333; padding: 10px; }
+nav a { color: white; text-decoration: none; }
